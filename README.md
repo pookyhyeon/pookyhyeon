@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning electronic and electronical engineering
 - 💞️ I’m looking to collaborate on anyone who interest at engineering 
 - 😄 Pronouns: ...
-- ⚡ Fun fact: [...](https://sinwave.tistory.com/) my blog 
+- ⚡ Fun fact: [click ](https://sinwave.tistory.com/) i usually use blog. 
 
 <!---
 pookyhyeon/pookyhyeon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
