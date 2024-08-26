@@ -3,7 +3,7 @@
 🌱 I’m currently learning embedded systems, machine learning, electric machine
 💞️ I’m looking to collaborate with other passionate individuals who have a lot of creative ideas.
 📫 You can reach me via email at ilu3312@konkuk.ac.kr.
-⚡ Fun fact: Check out my website at pookyhyeon.github.io/site.
+⚡ my homepage: https://pookyhyeon.github.io/site.
 
 <!---
 pookyhyeon/pookyhyeon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
