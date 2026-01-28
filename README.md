@@ -66,7 +66,7 @@ My research focuses on **e-motor design, multiphysics simulation, and data-drive
 ## Featured Work
 
 - **2-Stage Surrogate Framework (Classifier + Regressor)**  
-  🔗 (Repo) `https://github.com/pookyhyeon/<your-repo>`  
+  🔗 (Repo) `https://github.com/pookyhyeon/2stage_DNN_IPMSM`  
   - Feasibility classification + performance regression for robust motor design exploration
 
 - **Hybrid CNN–DNN (Image + Scalars) for Motor Prediction**  
