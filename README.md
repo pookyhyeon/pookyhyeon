@@ -64,7 +64,6 @@ My research focuses on **e-motor design, multiphysics simulation, and data-drive
 ---
 
 ## Featured Work
-> 아래는 “대표 프로젝트/레포” 링크만 너가 실제 레포로 바꿔 끼우면 완성.
 
 - **2-Stage Surrogate Framework (Classifier + Regressor)**  
   🔗 (Repo) `https://github.com/pookyhyeon/<your-repo>`  
@@ -84,19 +83,11 @@ My research focuses on **e-motor design, multiphysics simulation, and data-drive
 - **POSCO** · Efficiency Prediction of Traction Motors under Punching Stress Relaxation (2025)  
 - **LG** · Topology Exploration for Large Chiller Sleeve-free IPM Motors (2025–)  
 - **POSCO** · Measurement & Prediction Tech under Manufacturing Stress (2025–)  
-- **LG** · Multiphase Motor Topology Exploration for Fault-Tolerant Operation (2026–)
+- **POSCO** · Inline Measurement Technology for Real-Time Acquisition of BH Characteristics in Longitudinal Direction of Electrical Steel (2026–)
 
 > 자세한 내용은 포트폴리오에서 업데이트: https://pookyhyeon.github.io/
 
 ---
-
-## Publications
-- 2-Stage Deep Learning Surrogate Framework for Optimal Design of Electric Machines *(In preparation)*
-- Hybrid CNN–DNN for IPMSM Performance Prediction *(In preparation)*
-- Physics-Informed Deep Learning for Rapid Efficiency Map Prediction *(In preparation)*
-
----
-
 ## GitHub Stats
 <div align="center">
 
