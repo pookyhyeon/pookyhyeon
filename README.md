@@ -61,23 +61,7 @@ My research focuses on **e-motor design, multiphysics simulation, and data-drive
 **ML / Data**
 - PyTorch · scikit-learn · DOE/Optimization · Surrogate Modeling
 
----
 
-## Featured Work
-
-- **2-Stage Surrogate Framework (Classifier + Regressor)**  
-  🔗 (Repo) `https://github.com/pookyhyeon/2stage_DNN_IPMSM`  
-  - Feasibility classification + performance regression for robust motor design exploration
-
-- **Hybrid CNN–DNN (Image + Scalars) for Motor Prediction**  
-  🔗 (Repo) `https://github.com/pookyhyeon/<your-repo>`  
-  - Material-encoded cross-sectional images + operating parameters fusion
-
-- **Physics-Informed Efficiency Map Prediction**  
-  🔗 (Repo) `https://github.com/pookyhyeon/<your-repo>`  
-  - Loss separation (iron/copper) + PINN concept for fast map reconstruction
-
----
 
 ## Projects & Research (Public Scope)
 - **POSCO** · Efficiency Prediction of Traction Motors under Punching Stress Relaxation (2025)  
